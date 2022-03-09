@@ -1,2 +1,2 @@
 # ApiPersonASPNET
-CRUDE simples utilizando ASP.NET
+CRUD simples utilizando ASP.NET
